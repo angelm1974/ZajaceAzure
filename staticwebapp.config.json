@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "route": "/energy",
+      "methods": [
+        "get"
+      ],
+      "redirect": "https://youtu.be/3Z0Da8S8hf8?si=HKJdTmHPfkAwrmTU",
+      "statusCode": 302
+    }
+  ]
+}
